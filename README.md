@@ -5,7 +5,7 @@
   <em>“Arrange whatever pieces come your way.”</em>
 </p>
 
-<br><br>
+<br>
 
 <h2>🎼 Overture</h2>
 
@@ -27,7 +27,7 @@ clean abstractions, strong foundations, and intention behind every layer.
   <li>Systems thinking</li>
 </ul>
 
-<br><br>
+<br>
 
 <h2>📖 Annotations</h2>
 
@@ -38,7 +38,7 @@ clean abstractions, strong foundations, and intention behind every layer.
   <li>Clean, readable, maintainable code</li>
 </ul>
 
-<br><br>
+<br>
 
 <h2>🎹 Instruments</h2>
 
@@ -59,7 +59,7 @@ clean abstractions, strong foundations, and intention behind every layer.
   </a>
 </p>
 
-<br><br>
+<br>
 
 <h2>📜 Notes</h2>
 
