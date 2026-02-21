@@ -2,59 +2,69 @@
 <h3 align="center">Backend Developer • Python • Mathematics</h3>
 
 <p align="center">
-  <em>"Arrange whatever pieces come your way."</em>
+  <em>“Arrange whatever pieces come your way.”</em><br>
 </p>
 
----
+<hr style="border: 0; height: 1px; background-color: #2f2f2f;">
 
-## 🎼 Overture
+<h2>🎼 Overture</h2>
 
+<p>
 I build backend systems with an emphasis on clarity, structure and performance.
+</p>
 
-My approach to code is influenced by mathematics and literature: 
-clean abstractions, strong foundations and intention behind every layer.
+<p>
+My approach to code is shaped by mathematics and literature:
+clean abstractions, strong foundations, and intention behind every layer.
+</p>
 
-Currently focused on:
-- Backend architecture 
-- Data Structures & Algorithms  
-- Combining mathematics with code to create magic
-- Systems thinking  
+<p><strong>Currently focused on:</strong></p>
 
----
+<ul>
+  <li>Backend architecture</li>
+  <li>Data Structures & Algorithms</li>
+  <li>Applying mathematics with code to create magic</li>
+  <li>Systems thinking</li>
+</ul>
 
-## 📖 Annotations
+<hr style="border: 0; height: 1px; background-color: #2f2f2f;">
 
--  Logical reasoning & abstraction  
--  API design & backend systems  
--  Mathematical thinking in programming  
--  Clean, readable, maintainable code  
+<h2>📖 Annotations</h2>
 
----
+<ul>
+  <li>Logical reasoning & abstraction</li>
+  <li>API design & backend systems</li>
+  <li>Mathematical thinking in programming</li>
+  <li>Clean, readable, maintainable code</li>
+</ul>
 
-## 🎹 Instruments
+<hr style="border: 0; height: 1px; background-color: #2f2f2f;">
+
+<h2>🎹 Instruments</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c,django,fastapi,nodejs,express,postgres,mongodb,numpy,pandas,docker,html,css&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c,django,fastapi,nodejs,express,postgres,mongodb,numpy,pandas,docker,html,css,git,github&perline=8" />
 </p>
 
+<hr style="border: 0; height: 1px; background-color: #2f2f2f;">
 
----
-
-## 📫 Find Me
+<h2>📫 Find Me</h2>
 
 <p align="center">
   <a href="mailto:tiyasa.paul@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/tiyasa-paul-63a47b379/)">
+  <a href="https://www.linkedin.com/in/tiyasa-paul-63a47b379/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 </p>
 
----
+<hr style="border: 0; height: 1px; background-color: #2f2f2f;">
 
-## 📜 Notes
+<h2>📜 Notes</h2>
 
+<p>
 Interested in the intersection of systems, mathematics and structure
 in code as much as in composition.
+</p>
