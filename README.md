@@ -2,10 +2,10 @@
 <h3 align="center">Backend Developer • Python • Mathematics</h3>
 
 <p align="center">
-  <em>“Arrange whatever pieces come your way.”</em><br>
+  <em>“Arrange whatever pieces come your way.”</em>
 </p>
 
-<hr style="border: 0; height: 1px; background-color: #2f2f2f;">
+<br><br>
 
 <h2>🎼 Overture</h2>
 
@@ -27,7 +27,7 @@ clean abstractions, strong foundations, and intention behind every layer.
   <li>Systems thinking</li>
 </ul>
 
-<hr style="border: 0; height: 1px; background-color: #2f2f2f;">
+<br><br>
 
 <h2>📖 Annotations</h2>
 
@@ -38,15 +38,27 @@ clean abstractions, strong foundations, and intention behind every layer.
   <li>Clean, readable, maintainable code</li>
 </ul>
 
-<hr style="border: 0; height: 1px; background-color: #2f2f2f;">
+<br><br>
 
 <h2>🎹 Instruments</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c,django,fastapi,nodejs,express,postgres,mongodb,numpy,pandas,docker,html,css,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c" />
 </p>
 
-<hr style="border: 0; height: 1px; background-color: #2f2f2f;">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,numpy,pandas" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,html,css" />
+</p>
+
+<br><br>
 
 <h2>📫 Find Me</h2>
 
@@ -60,7 +72,7 @@ clean abstractions, strong foundations, and intention behind every layer.
   </a>
 </p>
 
-<hr style="border: 0; height: 1px; background-color: #2f2f2f;">
+<br><br>
 
 <h2>📜 Notes</h2>
 
