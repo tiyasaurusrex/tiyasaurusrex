@@ -56,5 +56,5 @@ Currently focused on:
 
 ## 📜 Notes
 
-Interested in the intersection of systems, mathematics, and structure —
+Interested in the intersection of systems, mathematics and structure
 in code as much as in composition.
