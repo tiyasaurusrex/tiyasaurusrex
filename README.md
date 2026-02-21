@@ -43,21 +43,8 @@ clean abstractions, strong foundations, and intention behind every layer.
 <h2>🎹 Instruments</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c,django,fastapi,nodejs,express,postgres,mongodb,numpy,pandas,docker,git,github,html,css" />
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,numpy,pandas" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,html,css" />
-</p>
-
 <br><br>
 
 <h2>📫 Find Me</h2>
